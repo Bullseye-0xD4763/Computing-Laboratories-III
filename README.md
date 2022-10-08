@@ -2,7 +2,7 @@
 Management and Query Software for the "Yelp.com" online platform.
 
 
-# Main Menu
+
 <p align="center">
   <img width="800" height="600" src="https://logosmarcas.net/wp-content/uploads/2020/11/Yelp-Logo.png">
 </p>
